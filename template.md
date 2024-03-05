@@ -1,7 +1,7 @@
 ---
 title: About me
 tags:
-  - personal
+  - explorerexclude
 plantedAt: 2022-09-29
 ---
 

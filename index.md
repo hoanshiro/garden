@@ -5,7 +5,7 @@ tags:
 plantedAt: 2022-09-29
 ---
 
-![[avatar.jpg|200]]
+![[avatar.webp|200]]
 
 things u should know about me...
 ## 3 INTERESTING FACTS ABOUT ME! 
@@ -14,10 +14,6 @@ things u should know about me...
 - Eastern philosophy is my compass for navigating life's profound questions.
 ## Education
 - 👨🎓 BSc in **Data Science** at **UIT** `Apr 23`
-## Experiences
-- 🎉 **Associate Software Engineer** at **Parcel Perform** `Oct 23 -> present`
-- 👍 **Machine Learning Engineer** at **Greystone Data Systems Vietnam** `Dec 22 -> Jul 23`
-- 😄 **Social Media Data Analyst Intern** at **Reputyze Asia** `May 22 -> Sep 22`
 ## Hobbies
 - Reading books: Philosophy, Psychology, Literature... 
 - Sports: Running, Badminton, Swimming, Cycling 
