@@ -34,7 +34,8 @@ Ví dụ như:
 > > [!todo]- Yes!, they can.
 > >
 > > > [!example] You can even use multiple layers of nesting.
-Hay
+> > > Good things take time
+
 - Di chuyển con chuột vô từ khoá để xem nội dung chi tiết link ở page định nghĩa nó:
 	- như này: [about me](index)
 
@@ -44,8 +45,8 @@ Ban đầu thì mình xây dựng blog dựa trên một open-source khác tên 
 ## Bắt tay vào làm thôi
 Okay, nếu đọc tới đây và thấy thích thú thì sao bạn không thử tự xây dựng cho mình một blog ?
 Để tiện thì mình sẽ tạo ra 2 bài chia sẻ luôn:
-- Nếu bạn biết là không muốn động tới code thì có thể đọc bài [này](tech/tutorial/tech_02_handson_built_blog_for_novice)
-- Bạn muốn tìm hiểu sâu hơn thì nên xem bài [này](tech/tutorial/tech_03_handson_built_blog_for_nerd)
+- Nếu bạn biết là không muốn động tới code thì có thể đọc bài [này](handson-built-blog-for-novice.md)
+- Bạn muốn tìm hiểu sâu hơn thì nên xem bài [này](handson-built-blog-for-nerd.md)
 ## Your turn
 
  > [!todo]- Yes, you can!
